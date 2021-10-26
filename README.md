@@ -34,7 +34,7 @@ The subject matter for the questions is up to you, so feel free to have fun with
    > </details>
 
 2. According to Greek mythology, who was the first woman on earth? Lilith, Pandora, Eve, Athena.
-   > Your Answer: ****
+   > Your Answer: **Pandora**
    > <details>
    >  <summary>Show correct answer: </summary>
    >  <b>Pandora</b> is the answer.
