@@ -41,7 +41,7 @@ The subject matter for the questions is up to you, so feel free to have fun with
    > </details>
     
 3. What is the only number spelled with letters in alphabetical order? 40, 30, 60, 90.
-   > Your Answer: ****
+   > Your Answer: **40**
    > <details>
    >  <summary>Show correct answer: </summary>
    >  <b>40</b> is the answer.
