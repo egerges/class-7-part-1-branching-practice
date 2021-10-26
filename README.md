@@ -27,7 +27,7 @@ The subject matter for the questions is up to you, so feel free to have fun with
 
 ## Questions
 1. Which creature has the largest brain on the earth? Orca Dolphins, Elephants, Sperm Whales, Humans.
-   > Your Answer: ****
+   > Your Answer: **Sperm Whales**
    > <details>
    >  <summary>Show correct answer: </summary>
    >  <b>Sperm Whales</b> is the answer.
