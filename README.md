@@ -27,28 +27,25 @@ The subject matter for the questions is up to you, so feel free to have fun with
 
 ## Questions
 1. Which creature has the largest brain on the earth? Orca Dolphins, Elephants, Sperm Whales, Humans.
-   > Your Answer:
-   
-    <details>
-     <summary>Show correct answer: </summary>
-     **Sperm Whales** is the answer.
-    </details>
+   > Your Answer: ****
+   > <details>
+   >  <summary>Show correct answer: </summary>
+   >  <b>Sperm Whales</b> is the answer.
+   > </details>
 
 2. According to Greek mythology, who was the first woman on earth? Lilith, Pandora, Eve, Athena.
-   > Your Answer:
-   
-   <details>
-   <summary>Show correct answer: </summary>
-   **Pandora** is the answer.
-   </details>
+   > Your Answer: ****
+   > <details>
+   >  <summary>Show correct answer: </summary>
+   >  <b>Pandora</b> is the answer.
+   > </details>
     
 3. What is the only number spelled with letters in alphabetical order? 40, 30, 60, 90.
-   > Your Answer:
-    
-   <details>
-   <summary>Show correct answer: </summary>
-   **40** is the answer.
-   </details>
+   > Your Answer: ****
+   > <details>
+   >  <summary>Show correct answer: </summary>
+   >  <b>40</b> is the answer.
+   > </details>
 
 ---
 *Page designed since we're in "DESIGN" course.*
